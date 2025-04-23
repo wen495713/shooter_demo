@@ -14,3 +14,5 @@ Since there's collision in the naming of "components" from both the React librar
 
 - the `views` folder containing the React / React Three Fiber related components
 - the `logic` folder containing the compnents, queries and systems from
+
+## haha
